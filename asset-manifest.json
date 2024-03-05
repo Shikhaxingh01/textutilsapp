@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/extutilsapp/static/css/main.e6c13ad2.css",
+    "main.js": "/extutilsapp/static/js/main.faca5461.js",
+    "static/js/453.bcdecdcf.chunk.js": "/extutilsapp/static/js/453.bcdecdcf.chunk.js",
+    "index.html": "/extutilsapp/index.html",
+    "main.e6c13ad2.css.map": "/extutilsapp/static/css/main.e6c13ad2.css.map",
+    "main.faca5461.js.map": "/extutilsapp/static/js/main.faca5461.js.map",
+    "453.bcdecdcf.chunk.js.map": "/extutilsapp/static/js/453.bcdecdcf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.faca5461.js"
+  ]
+}
